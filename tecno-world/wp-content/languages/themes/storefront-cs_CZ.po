@@ -1,0 +1,644 @@
+# Translation of Themes - Storefront in Czech
+# This file is distributed under the same license as the Themes - Storefront package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-28 18:31:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Themes - Storefront\n"
+
+#. Theme Name of the theme
+msgid "Storefront"
+msgstr "Storefront"
+
+#. Description of the theme
+msgid "Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooCommerce Core developers, it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions. There are several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love its lean and extensible codebase making it a joy to customize and extend. Looking for a WooCommerce theme? Look no further!"
+msgstr "Storefront je skvělá šablona, pro váš další WooCommerce projekt. Navržena a vyvinuta WooTheme, podporuje a využívá náš Woocommerce plugin, několik rozvržení stánky a nastavení barev, pro personalizaci vašeho obchodu, několik widget oblastí, responzivní design a mnohem více. Vývojáři si oblíbí jednoduchý a rozšiřitelný kód. díky němuž, bude další vývoj radostí. Hledáte WooCommerce šablonu? Již nemusíte!"
+
+#: inc/admin/class-storefront-plugin-install.php:113
+msgctxt "Translators: conjunction of two alternative options user can choose (in missing plugin admin notice). Example: \"Activate WooCommerce or learn more\""
+msgid "or"
+msgstr "nebo"
+
+#: inc/admin/class-storefront-plugin-install.php:114
+msgid "learn more"
+msgstr "zjistit více"
+
+#: inc/class-storefront.php:209
+msgid "Huge"
+msgstr "Obrovský"
+
+#: inc/class-storefront.php:204
+msgid "Large"
+msgstr "Velký"
+
+#: inc/class-storefront.php:199
+msgid "Medium"
+msgstr "Střední"
+
+#: inc/class-storefront.php:194
+msgid "Normal"
+msgstr "Normální"
+
+#: inc/class-storefront.php:189
+msgid "Small"
+msgstr "Malý"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/storefront-template-functions.php:521
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Upravit <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/storefront-template-functions.php:559
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Štítek:"
+msgstr[1] "Štítky:"
+msgstr[2] "Štítků:"
+
+#: inc/storefront-template-functions.php:553
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Kategorie:"
+msgstr[1] "Obchod podle kategorií"
+msgstr[2] "Obchod podle kategorií"
+
+#. translators: %s: post date
+#: inc/storefront-template-functions.php:467
+msgid "Posted on %s"
+msgstr "Publikováno %s"
+
+#: inc/storefront-template-functions.php:473
+msgid "by"
+msgstr "Autor"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:837
+msgid "Product Brands"
+msgstr "Značky produktů"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:822
+msgid "Shop by Brand"
+msgstr "Obchod dle značek"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:787
+msgid "You're viewing:"
+msgstr "Prohlížíte:"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:724
+msgid "More products"
+msgstr "Více produktů"
+
+#: inc/storefront-template-functions.php:592
+msgid "Previous post:"
+msgstr "Předchozí příspěvek:"
+
+#: inc/storefront-template-functions.php:591
+msgid "Next post:"
+msgstr "Následující příspěvek:"
+
+#: inc/woocommerce/class-storefront-woocommerce-customizer.php:93
+msgid "Product Pagination"
+msgstr "Stránkování produktu"
+
+#: inc/woocommerce/class-storefront-woocommerce-customizer.php:59
+msgid "Product Page"
+msgstr "Stránka  produktu"
+
+#: inc/storefront-template-functions.php:141
+msgid "WooCommerce - The Best eCommerce Platform for WordPress"
+msgstr "WooCommerce - Nejlepší eCommerce platforma pro WordPress"
+
+#: comments.php:58
+msgid "Comment Navigation Below"
+msgstr "Navigace komentářů níže"
+
+#: comments.php:38
+msgid "Comment Navigation Above"
+msgstr "Navigace komentářů výše"
+
+#: comments.php:21
+msgid "Post Comments"
+msgstr "Komentáře příspěvku"
+
+#: 404.php:39
+msgid "Promoted Products"
+msgstr "Propagované produkty"
+
+#: inc/admin/class-storefront-admin.php:174
+#: inc/admin/class-storefront-plugin-install.php:62
+msgid "Activated"
+msgstr "Aktivovaný"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:542
+msgid "Best Selling Products"
+msgstr "Nejprodávanější produkty"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:490
+msgid "On Sale Products"
+msgstr "Zboží ve slevě"
+
+#: inc/storefront-template-functions.php:309
+msgid "Edit this section"
+msgstr "Upravit"
+
+#: inc/nux/class-storefront-nux-starter-content.php:971
+msgid "Vneck Tshirt"
+msgstr "Tričko s výstřihem do V"
+
+#: inc/nux/class-storefront-nux-starter-content.php:950
+msgid "Tshirt"
+msgstr "Tričko"
+
+#: inc/nux/class-storefront-nux-starter-content.php:929
+msgid "Polo"
+msgstr "Polokošile"
+
+#: inc/nux/class-storefront-nux-starter-content.php:908
+msgid "Long Sleeve Tee"
+msgstr "Tričko s dlouhým rukávem"
+
+#: inc/nux/class-storefront-nux-starter-content.php:886
+msgid "Hoodie"
+msgstr "Mikina"
+
+#: inc/nux/class-storefront-nux-starter-content.php:865
+msgid "Hoodie with Zipper"
+msgstr "Mikina se zipem"
+
+#: inc/nux/class-storefront-nux-starter-content.php:843
+msgid "Hoodie with Pocket"
+msgstr "Mikina s kapsou"
+
+#: inc/nux/class-storefront-nux-starter-content.php:822
+msgid "Hoodie with Logo"
+msgstr "Mikina s logem"
+
+#: inc/nux/class-storefront-nux-starter-content.php:801
+msgid "Sunglasses"
+msgstr "Sluneční brýle"
+
+#: inc/nux/class-storefront-nux-starter-content.php:779
+msgid "Cap"
+msgstr "Kšiltovka"
+
+#: inc/nux/class-storefront-nux-starter-content.php:757
+msgid "Belt"
+msgstr "Pásek"
+
+#: inc/nux/class-storefront-nux-starter-content.php:735
+msgid "Beanie"
+msgstr "Čepice"
+
+#: inc/nux/class-storefront-nux-starter-content.php:729
+msgid "Tshirts"
+msgstr "Trička"
+
+#: inc/nux/class-storefront-nux-starter-content.php:726
+msgid "Hoodies"
+msgstr "Mikiny"
+
+#: inc/nux/class-storefront-nux-starter-content.php:724
+#: inc/nux/class-storefront-nux-starter-content.php:727
+#: inc/nux/class-storefront-nux-starter-content.php:730
+msgid "A short category description"
+msgstr "Krátký popis kategorie"
+
+#: inc/nux/class-storefront-nux-starter-content.php:723
+msgid "Accessories"
+msgstr "Příslušenství"
+
+#: inc/nux/class-storefront-nux-starter-content.php:213
+#: inc/nux/class-storefront-nux-starter-content.php:1101
+msgid "Welcome"
+msgstr "Vítejte"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:91
+msgid "Skip this step"
+msgstr "Přeskočit tento krok"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:112
+#: inc/nux/class-storefront-nux-admin.php:131
+msgid "Let's go!"
+msgstr "Pojďme na to!"
+
+#: inc/nux/class-storefront-nux-admin.php:126
+msgid "Add example products"
+msgstr "Přidání ukázkových produktů"
+
+#: inc/nux/class-storefront-nux-admin.php:85
+msgid "Activate WooCommerce"
+msgstr "Aktivovat WooCommerce"
+
+#: inc/nux/class-storefront-nux-admin.php:85
+msgid "WooCommerce activated"
+msgstr "WooCommerce aktivován"
+
+#. translators: 1: column number
+#: inc/class-storefront.php:254
+msgid "Footer Column %1$d"
+msgstr "Sloupec patičky %1$d"
+
+#: inc/admin/class-storefront-admin.php:205
+msgid "Learn more"
+msgstr "Zjistit více"
+
+#: inc/admin/class-storefront-admin.php:198
+#: inc/admin/class-storefront-plugin-install.php:94
+msgid "Install now"
+msgstr "Instalovat nyní"
+
+#: inc/admin/class-storefront-admin.php:94
+msgid "Hello! You might be interested in the following Storefront extensions and designs."
+msgstr "Mohly by vás zajímat následující rozšíření a designy v pro Storefront."
+
+#: inc/admin/class-storefront-admin.php:92
+msgid "One more thing... You might be interested in the following Storefront extensions and designs."
+msgstr "Ještě jedna věc... Mohly by vás zajímat následující rozšíření a designy pro Storefront."
+
+#. translators: 1: HTML, 2: HTML
+#: inc/admin/class-storefront-admin.php:91
+msgid "Setup complete %1$sYour Storefront adventure begins now 🚀%2$s "
+msgstr "Nastavení dokončeno %1$s Dobrodružství právě začíná 🚀%2$s "
+
+#: inc/admin/class-storefront-admin.php:74
+msgid "Development blog"
+msgstr "Vývojářský blog"
+
+#: inc/admin/class-storefront-admin.php:73
+msgid "Documentation"
+msgstr "Dokumentace"
+
+#: inc/admin/class-storefront-admin.php:72
+msgid "Support"
+msgstr "Podpora"
+
+#: inc/class-storefront.php:241
+msgid "Widgets added to this region will appear beneath the header and above the main content."
+msgstr "Widgety přidané do této oblasti se objeví pod hlavičkou a nad hlavním obsahem."
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:696
+msgid "My Account"
+msgstr "Můj účet"
+
+#: 404.php:25 inc/woocommerce/storefront-woocommerce-template-functions.php:669
+msgid "Search"
+msgstr "Prohledat"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1074
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:523
+msgid "Best Sellers"
+msgstr "Nejlepší prodejci"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1058
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:417
+msgid "Fan Favorites"
+msgstr "Oblíbené "
+
+#: inc/nux/class-storefront-nux-starter-content.php:1135
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:364
+msgid "We Recommend"
+msgstr "Doporučujeme"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1048
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:311
+msgid "New In"
+msgstr "Nové v"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1040
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:259
+msgid "Shop by Category"
+msgstr "Obchod podle kategorií"
+
+#: inc/storefront-template-functions.php:241
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/class-storefront.php:239
+msgid "Below Header"
+msgstr "Pod hlavičkou"
+
+#. translators: %s: Storefront
+#: inc/customizer/class-storefront-customizer-control-more.php:36
+msgid "Enjoying %s?"
+msgstr "Spokojeni s %s?"
+
+#. translators: %s: Automattic branding
+#: inc/admin/class-storefront-admin.php:145
+msgid "An %s project"
+msgstr "%s projekt"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:590
+msgid "On Sale Now"
+msgstr "Aktuálně ve výprodeji"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:600
+msgid "New In Store"
+msgstr "Nově v obchodě"
+
+#: inc/customizer/class-storefront-customizer.php:286
+msgid "Header background image"
+msgstr "Obrázek v pozadí záhlaví"
+
+#: inc/storefront-template-functions.php:577
+msgctxt "Next post"
+msgid "Next"
+msgstr "Následující"
+
+#: inc/storefront-template-functions.php:578
+msgctxt "Previous post"
+msgid "Previous"
+msgstr "Předchozí"
+
+#: 404.php:59 404.php:61
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:436
+msgid "Popular Products"
+msgstr "Oblíbené produkty"
+
+#: 404.php:22
+msgid "Nothing was found at this location. Try searching, or check out the links below."
+msgstr "Bohužel jsme nic nenašli. Zkuste vyhledávání, nebo odkazy níže."
+
+#. Template Name of the theme
+#: inc/nux/class-storefront-nux-starter-content.php:208
+msgid "Homepage"
+msgstr "Domovská stránka"
+
+#. Template Name of the theme
+msgid "Full width"
+msgstr "Plná délka"
+
+#. translators: %d: number of items in cart
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:77
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d Položka"
+msgstr[1] "%d Položky"
+msgstr[2] ""
+
+#. translators: %s: search term
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhledávání pro: %s"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:330
+msgid "Recent Products"
+msgstr "Nejnovější produkty"
+
+#: 404.php:45 404.php:47
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:278
+msgid "Product Categories"
+msgstr "Kategorie produktů"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:384
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:580
+msgid "Featured Products"
+msgstr "TOP produkty"
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:75
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:682
+msgid "View your shopping cart"
+msgstr "Zobrazit košík"
+
+#: inc/nux/class-storefront-nux-starter-content.php:1066
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:470
+msgid "On Sale"
+msgstr "Ve slevě"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:83
+msgid "Next"
+msgstr "Další"
+
+#: inc/storefront-template-functions.php:482
+msgid "% Comments"
+msgstr "Komentáře: %"
+
+#: inc/storefront-template-functions.php:482
+msgid "1 Comment"
+msgstr "1 komentář"
+
+#: inc/storefront-template-functions.php:482
+msgid "Leave a comment"
+msgstr "Napsat komentář"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/storefront-template-functions.php:544
+#: inc/storefront-template-functions.php:547
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post title
+#: inc/storefront-template-functions.php:417
+msgid "Continue reading %s"
+msgstr "Pokračování textu %s"
+
+#: inc/storefront-template-functions.php:355
+#: inc/storefront-template-functions.php:426
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: inc/storefront-template-functions.php:296
+msgid "Skip to navigation"
+msgstr "Přeskočit na navigaci"
+
+#: inc/storefront-template-functions.php:272
+msgid "Secondary Navigation"
+msgstr "Vedlejší navigace"
+
+#: inc/storefront-template-functions.php:297
+msgid "Skip to content"
+msgstr "Přejít k obsahu webu"
+
+#: inc/storefront-template-functions.php:240
+msgid "Primary Navigation"
+msgstr "Základní navigační menu"
+
+#: inc/storefront-template-functions.php:74
+msgid "Edit"
+msgstr "Upravit"
+
+#: inc/storefront-template-functions.php:48
+msgid "Your comment is awaiting moderation."
+msgstr "Komentář čeká na schválení."
+
+#: inc/nux/class-storefront-nux-starter-content.php:192
+#: inc/class-storefront.php:96
+msgid "Handheld Menu"
+msgstr "Mobilní menu"
+
+#: inc/class-storefront.php:233
+msgid "Sidebar"
+msgstr "Postranní panel"
+
+#: inc/nux/class-storefront-nux-starter-content.php:182
+#: inc/class-storefront.php:95
+msgid "Secondary Menu"
+msgstr "Duhé ménu"
+
+#: inc/customizer/class-storefront-customizer.php:598
+msgid "Looking for more options?"
+msgstr "Hledáte více možností?"
+
+#: inc/nux/class-storefront-nux-starter-content.php:162
+#: inc/class-storefront.php:94
+msgid "Primary Menu"
+msgstr "Základní navigační menu"
+
+#: inc/customizer/class-storefront-customizer.php:567
+msgid "General Layout"
+msgstr "Základní rozvržení"
+
+#: inc/customizer/class-storefront-customizer.php:583
+msgid "More"
+msgstr "Další"
+
+#: inc/customizer/class-storefront-customizer.php:362
+msgid "Customize the look & feel of your website footer."
+msgstr "Úprava vzhledu a působení zápatí vaší webové stránky."
+
+#: inc/customizer/class-storefront-customizer.php:457
+msgid "Customize the look & feel of your website buttons."
+msgstr "Úprava vzhledu a působení tlačítek vaší webové stránky."
+
+#: inc/customizer/class-storefront-customizer.php:455
+msgid "Buttons"
+msgstr "Tlačítka"
+
+#: inc/customizer/class-storefront-customizer.php:537
+msgid "Alternate button text color"
+msgstr "Alternativní barva textu tlačítka"
+
+#: inc/customizer/class-storefront-customizer.php:516
+msgid "Alternate button background color"
+msgstr "Alternativní barva pozadí tlačítka"
+
+#: inc/customizer/class-storefront-customizer.php:550
+msgid "Layout"
+msgstr "Grafické rozvržení"
+
+#: inc/customizer/class-storefront-customizer.php:360
+msgid "Footer"
+msgstr "Zápatí"
+
+#: inc/customizer/class-storefront-customizer.php:347
+#: inc/customizer/class-storefront-customizer.php:442
+msgid "Link color"
+msgstr "Barva odkazů"
+
+#: inc/customizer/class-storefront-customizer.php:305
+#: inc/customizer/class-storefront-customizer.php:379
+#: inc/customizer/class-storefront-customizer.php:474
+msgid "Background color"
+msgstr "Barva pozadí"
+
+#: inc/customizer/class-storefront-customizer.php:189
+#: inc/customizer/class-storefront-customizer.php:400
+msgid "Heading color"
+msgstr "Barva nadpisů"
+
+#: inc/customizer/class-storefront-customizer.php:231
+msgid "Link / accent color"
+msgstr "Barva odkazu/ zvýraznění"
+
+#: inc/customizer/class-storefront-customizer.php:210
+#: inc/customizer/class-storefront-customizer.php:326
+#: inc/customizer/class-storefront-customizer.php:421
+#: inc/customizer/class-storefront-customizer.php:495
+msgid "Text color"
+msgstr "Barva textu"
+
+#: inc/customizer/class-storefront-customizer.php:171
+msgid "Typography"
+msgstr "Typografie"
+
+#: inc/customizer/class-storefront-customizer.php:126
+msgid "Header"
+msgstr "Záhlaví"
+
+#. translators: 1: Storefront, 2: start <a> tag, 3: Storefront, 4: end <a> tag
+#: inc/customizer/class-storefront-customizer-control-more.php:29
+msgid "There's a range of %1$s extensions available to put additional power in your hands. Check out the %2$s%3$s%4$s page in your dashboard for more information."
+msgstr "K dispozici je řada %1$s rozšíření, které vám dají další možnosti. Podívejte se na %2$s%3$s%4$s stránku na vaší nástěnce, pro více informací."
+
+#. translators: 1: start <a> tag, 2: end <a> tag
+#: inc/customizer/class-storefront-customizer-control-more.php:43
+msgid "Why not leave us a review on %1$sWordPress.org%2$s?  We'd really appreciate it!"
+msgstr "Proč nenapíšete recenzi na %1$sWordPress.org%2$s? Velmi to oceníme!"
+
+#: inc/customizer/class-storefront-customizer.php:122
+msgid "Background"
+msgstr "Pozadí"
+
+#: inc/nux/class-storefront-nux-admin.php:85
+msgid "Install WooCommerce"
+msgstr "Instalovat WooCommerce"
+
+#: inc/nux/class-storefront-nux-guided-tour.php:118
+msgid "Add your logo"
+msgstr "Přidej svoje logo"
+
+#: inc/admin/class-storefront-admin.php:183
+#: inc/admin/class-storefront-plugin-install.php:75
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: content-none.php:34
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Patrně jste chtěli na webu zobrazit něco, co se zde bohužel nenachází. Můžete ale ještě zkusit vyhledávání pomocí zadaného klíčového slova."
+
+#: content-none.php:29
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Omlouváme se, ale hledaný výraz nebyl na webu nalezen. Zkuste to prosím znovu s nějakým jiným klíčovým slovem."
+
+#. translators: 1: URL
+#: content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Chystáte se publikovat svůj první příspěvek? <a href=\"%1$s\">Můžete začít rovnou zde</a>."
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Nenalezeno"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Komentáře nejsou povoleny."
+
+#: comments.php:41 comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr "Novější komentáře &rarr;"
+
+#: comments.php:40 comments.php:60
+msgid "&larr; Older Comments"
+msgstr "&larr; Starší komentáře"
+
+#: comments.php:39 comments.php:59
+msgid "Comment navigation"
+msgstr "Navigace pro komentáře"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s komentář u &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s komentáře u &bdquo;%2$s&ldquo;"
+msgstr[2] "%1$s komentářů u &bdquo;%2$s&ldquo;"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Omlouváme se, ale stránka nebyla nalezena."
+
+#. Author of the theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the theme
+msgid "https://woocommerce.com/"
+msgstr "https://woocommerce.com/"
+
+#. Theme URI of the theme
+msgid "https://woocommerce.com/storefront/"
+msgstr "https://woocommerce.com/storefront/"

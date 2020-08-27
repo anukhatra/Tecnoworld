@@ -1,0 +1,45 @@
+2020-05-05T08:03:34+00:00 CRITICAL Uncaught Error: Call to a member function get_url() on null in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/plugins/revslider/includes/template.class.php:136
+Stack trace:
+#0 /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/plugins/revslider/admin/revslider-admin.class.php(112): RevSliderTemplate->_get_template_list()
+#1 /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#2 /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/plugins/revslider/revslider.php(168): RevSliderAdmin->__construct('/Users/nawarmoh...')
+#3 /Users/nawarmohra/Tecnoworld/tecno-world/wp-admin/includes/plugin.php(659): include_once('/Users/nawarmoh...')
+#4 /Users/nawarmohra/Tecnoworld/tecno-world/wp-admin/plugins.php(44): activate_plugin('revslider/revsl...', 'http://localhos...', false)
+#5 {main}
+  thrown in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/plugins/revslider/includes/template.class.php on line 136
+
+2020-05-05T08:03:37+00:00 CRITICAL Uncaught Error: Call to a member function get_url() on null in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/plugins/revslider/includes/object-library.class.php:62
+Stack trace:
+#0 /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/plugins/revslider/admin/revslider-admin.class.php(118): RevSliderObjectLibrary->_get_list()
+#1 /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#2 /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/plugins/revslider/revslider.php(168): RevSliderAdmin->__construct('/Users/nawarmoh...')
+#3 /Users/nawarmohra/Tecnoworld/tecno-world/wp-admin/includes/plugin.php(2255): include('/Users/nawarmoh...')
+#4 /Users/nawarmohra/Tecnoworld/tecno-world/wp-admin/plugins.php(177): plugin_sandbox_scrape('revslider/revsl...')
+#5 {main}
+  thrown in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/plugins/revslider/includes/object-library.class.php on line 62
+
+2020-05-05T10:04:36+00:00 CRITICAL Cannot redeclare topProducts() (previously declared in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/plugins/popular-products/Popular-Products.php:11) in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/plugins/Last -Products/Last Products-plugin.php on line 35
+
+2020-05-05T10:04:38+00:00 CRITICAL Cannot redeclare topProducts() (previously declared in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/plugins/popular-products/Popular-Products.php:11) in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/plugins/Last -Products/Last Products-plugin.php on line 35
+
+2020-05-05T10:04:38+00:00 CRITICAL Cannot redeclare topProducts() (previously declared in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/plugins/popular-products/Popular-Products.php:11) in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/plugins/Last -Products/Last Products-plugin.php on line 35
+
+2020-05-05T10:23:26+00:00 CRITICAL Cannot redeclare wpdocs_after_setup_theme() (previously declared in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/themes/storefront-child/functions.php:22) in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/themes/storefront-child/functions.php on line 52
+
+2020-05-05T10:24:02+00:00 CRITICAL Cannot redeclare wpdocs_after_setup_theme() (previously declared in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/themes/storefront-child/functions.php:22) in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/themes/storefront-child/functions.php on line 52
+
+2020-05-05T10:24:15+00:00 CRITICAL Cannot redeclare wpdocs_after_setup_theme() (previously declared in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/themes/storefront-child/functions.php:22) in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/themes/storefront-child/functions.php on line 52
+
+2020-05-05T10:24:17+00:00 CRITICAL Cannot redeclare wpdocs_after_setup_theme() (previously declared in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/themes/storefront-child/functions.php:22) in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/themes/storefront-child/functions.php on line 52
+
+2020-05-05T11:21:16+00:00 CRITICAL Uncaught Error: Call to undefined function storefront_homepage_content_styles() in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/themes/storefront/content-homepage.php:13
+Stack trace:
+#0 /Users/nawarmohra/Tecnoworld/tecno-world/wp-includes/template.php(725): require()
+#1 /Users/nawarmohra/Tecnoworld/tecno-world/wp-includes/template.php(672): load_template('/Users/nawarmoh...', false)
+#2 /Users/nawarmohra/Tecnoworld/tecno-world/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/themes/storefront/inc/storefront-template-functions.php(621): get_template_part('content', 'homepage')
+#4 /Users/nawarmohra/Tecnoworld/tecno-world/wp-includes/class-wp-hook.php(287): storefront_homepage_content('')
+#5 /Users/nawarmohra/Tecnoworld/tecno-world/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /Users/nawarmohra/Tecnoworld/tecno-world/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#7 /Users/nawarmohra/Tecnowor in /Users/nawarmohra/Tecnoworld/tecno-world/wp-content/themes/storefront/content-homepage.php on line 13
+
